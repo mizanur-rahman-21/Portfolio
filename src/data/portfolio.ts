@@ -896,7 +896,7 @@ export const education: Education[] = [
     degree: "B.Sc. in Engineering",
     field: "Industrial and Production Engineering (IPE)",
     period: "Jan 2023 — Dec 2026",
-    gpa: "3.8 / 4.0",
+    gpa: "3.39 / 4.0",
     status: "Final Year",
     coursework: [
       "Statistics & Probability",
