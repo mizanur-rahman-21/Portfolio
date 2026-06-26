@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mizanur Rahman — ML Portfolio
 
 A premium, single-page-application portfolio built with **React + Vite +
@@ -131,3 +132,6 @@ npm run preview   # preview the production build
 3. **Wire live GitHub stats** via the GitHub API.
 4. **Add real contact email** (Resend/Formspree).
 5. **Build the backend** only when you need persistence beyond one device.
+=======
+# Portfolio-Website
+>>>>>>> 1fd0b663f94418eb5658a28fa890a4c47caf9641
