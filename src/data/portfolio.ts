@@ -6,7 +6,7 @@
 
 export const profile = {
   name: "Mizanur Rahman",
-  firstName: "MIZAN",
+  firstName: "Mizanur Rahman",
   initials: "MR",
   roles: [
     "Machine Learning Engineer",

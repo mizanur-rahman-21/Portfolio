@@ -36,7 +36,7 @@ export function AiAssistant() {
   const [typing, setTyping] = useState(false);
   const [input, setInput] = useState("");
   const [msgs, setMsgs] = useState<Msg[]>([
-    { role: "bot", text: "Hi! I'm Aaraav's AI assistant ✨ Ask me anything about skills, projects, research, or getting in touch." },
+    { role: "bot", text: "Hi! I'm Mizan's AI assistant ✨ Ask me anything about skills, projects, research, or getting in touch." },
   ]);
   const endRef = useRef<HTMLDivElement>(null);
 
